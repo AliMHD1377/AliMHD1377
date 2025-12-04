@@ -12,6 +12,7 @@
 ### 🖥 Skills
 
 - Python
+- Git
 ### ⚙️ Tech Stack
 
 ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=963baf) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=963baf)
