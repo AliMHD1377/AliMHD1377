@@ -13,7 +13,8 @@
 
 ### ⚙️ Tech Stack
 
-![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=963baf) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=963baf) ![Bootstrap](https://img.shields.io/badge/-Numpy-05122A?style=flat-square&logo=Numpy&color=963baf) ![Bootstrap](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=Git&color=963baf)
+![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=963baf) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=963baf) ![Bootstrap](https://img.shields.io/badge/-Numpy-05122A?style=flat-square&logo=Numpy&color=963baf) ![Bootstrap](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=Git&color=963baf) ![Bootstrap](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=Pandas&color=963baf)
+
 
 
 ---
