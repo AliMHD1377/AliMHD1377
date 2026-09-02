@@ -5,7 +5,6 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:alimohammadi.mhd.1377@gmail.com)
 [![Github](https://img.shields.io/github/followers/AliMHD1377?label=Follow&style=social)](https://github.com/AliMHD1377)
 
-- 🌱 I'm Ali Mohammadi. Master's degree student in Artificial Intelligence, Azad University :)
 -  💡 Learning Machine Learning
 
 
