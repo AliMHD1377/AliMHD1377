@@ -3,7 +3,7 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/Ali_Mhd1377)](https://twitter.com/Ali_Mhd1377)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:alimohammadi.mhd.1377@gmail.com)
-[![Github](https://img.shields.io/github/followers/AliMHD1377?label=Follow&style=social)](https://github.com/AliMHD1377)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/AliMHD1377)
 
 - 💡 Currently: Learning Machine Learning
 
@@ -19,25 +19,12 @@
 ![Seaborn](https://img.shields.io/badge/-Seaborn-05122A?style=flat-square&color=963baf)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-05122A?style=flat-square&logo=Streamlit&color=963baf)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=Git&color=963baf)
-
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-05122A?style=flat-square&logo=scikitlearn&color=963baf)
 
 
 ---
 
-<!-- stats side-by-side using a simple table -->
-<table>
-  <tr>
-    <td valign="top">
-      <!-- Most used languages -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliMHD1377&layout=compact&hide=html" alt="Most Used Languages" />
-    </td>
-    <td valign="top">
-      <!-- GitHub overall stats -->
-      <img src="https://github-readme-stats.vercel.app/api?username=AliMHD1377&show_icons=true&count_private=true" alt="GitHub Stats" />
-    </td>
-    <td valign="top">
-      <!-- Streaks: use demolab mirror (Heroku deprecated) -->
-      <img src="https://streak-stats.demolab.com/?user=AliMHD1377" alt="Streak Stats" />
-    </td>
-  </tr>
-</table>
+<!-- Streak Stats -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=AliMHD1377" alt="Streak Stats" />
+</p>
