@@ -1,30 +1,34 @@
 # عَلی مُحَمَّدی
 
-
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/Ali_Mhd1377)](https://twitter.com/Ali_Mhd1377)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:alimohammadi.mhd.1377@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/AliMHD1377)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Ali_Mhd1377)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alimohammadi.mhd.1377@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/AliMHD1377)
 
 - 💡 Currently: Learning Machine Learning
 
+---
 
+### 🛠️ My Favorite Tools
 
-### ⚙️ Tech Stack
+#### 👨‍💻 Programming Languages
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=963baf)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=visualstudiocode&logoColor=007ACC&color=963baf)
-![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat-square&logo=Numpy&color=963baf)
-![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=Pandas&color=963baf)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat-square&color=963baf)
-![Seaborn](https://img.shields.io/badge/-Seaborn-05122A?style=flat-square&color=963baf)
-![Streamlit](https://img.shields.io/badge/-Streamlit-05122A?style=flat-square&logo=Streamlit&color=963baf)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=Git&color=963baf)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-05122A?style=flat-square&logo=scikitlearn&color=963baf)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
+#### 📚 Frameworks and Libraries
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+
+#### 🧰 Software and Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 ---
 
-<!-- Streak Stats -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AliMHD1377" alt="Streak Stats" />
-</p>
+If you have any questions feel free to [contact me through email](mailto:alimohammadi.mhd.1377@gmail.com).
