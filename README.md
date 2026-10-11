@@ -29,6 +29,3 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
----
-
-If you have any questions feel free to [contact me through email](mailto:alimohammadi.mhd.1377@gmail.com).
