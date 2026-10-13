@@ -29,3 +29,10 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
+---
+
+<!-- stats side-by-side using a simple table -->
+<!-- Streak Stats -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=AliMHD1377" alt="Streak Stats" />
+</p>
